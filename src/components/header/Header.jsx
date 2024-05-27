@@ -77,7 +77,7 @@ const Header = () => {
             <ContentWrapper>
                 <div className="logo" onClick={() => navigate("/")}>
                     {/* <img src={logo} alt="" /> */}
-                    <BiSolidMoviePlay className="logoIcon"/> <span className="logoText"> MyMovieHouse</span>
+                    <BiSolidMoviePlay className="logoIcon"/> <span className="logoText"> MyOwnMovieHub</span>
                 </div>
                 <ul className="menuItems">
                     <li
