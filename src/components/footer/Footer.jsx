@@ -22,12 +22,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+                    FlickFusion is your ultimate destination for comprehensive movie and TV show information. Utilizing React, FlickFusion offers detailed insights, ratings, trailers, and search capabilities for an enriched cinematic experience. With features like lazy loading, infinite scrolling, and loading skeletons, FlickFusion ensures optimal performance and seamless user engagement. Discover your next favorite movie or TV show with FlickFusion!
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
